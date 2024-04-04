@@ -1,1 +1,1 @@
-# I have automated the entire infrastructure from AWS VPC setup to EKS deployment and database provisioning
+# I automated AWS infrastructure, EKS, and database deployment
